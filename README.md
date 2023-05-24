@@ -31,7 +31,11 @@ The Note Taker App is a web application built using Express, a popular web frame
 * Type node server.js in the terminal to initilize the app.
 * Open a web browser and go to http://localhost:3001
 * Take notes!
-### Visual Walkthrough
+
+### Live Deploy
+https://twp-express-js-note-taker.herokuapp.com/
+
+### Video Walkthrough 
     
 ## License
 Permission to use this application is granted under the MIT license.
