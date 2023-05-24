@@ -30,6 +30,7 @@ The Note Taker App is a web application built using Express, a popular web frame
 * Navigate to server.js in the terminal.
 * Type node server.js in the terminal to initilize the app.
 * Open a web browser and go to http://localhost:3001
+* Take notes!
 ### Visual Walkthrough
     
 ## License
@@ -37,6 +38,7 @@ Permission to use this application is granted under the MIT license.
 Click on the link for more information: [MIT License Information](https://opensource.org/licenses/MIT)
   
 ## Credits
+https://github.com/kara-krzystan
   
 ## Contact Me
 GitHub Link: (https://github.com/TpainMcain)<br>
