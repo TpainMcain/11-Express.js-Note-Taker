@@ -17,9 +17,19 @@ The Note Taker App is a web application built using Express, a popular web frame
 * Delete Notes: Users can delete unwanted notes, removing them from the app's database and freeing up space for new notes.
   
 ## Installation Instructions
-  
+  ### Node.js installation
+  Verify node.js installed on your computer by opening a terminal and typing node -v in the command line. If successful, the command prompt will return a version number. If not, try reinstalling Node.js by following this link: https://nodejs.org/en/.
+  ### Download or clone the code
+  Click on the green code button to download or clone this repository. Extract the files and open with your favorite code editor.
+  ### Install Dependencies
+* Navigate to server.js in the terminal.
+* Type npm i -y in the terminal to install dependencies.
+
 ## Usage Instructions
-* 
+* Open this repository with your favorite code editor.
+* Navigate to server.js in the terminal.
+* Type node server.js in the terminal to initilize the app.
+* Open a web browser and go to http://localhost:3001
 ### Visual Walkthrough
     
 ## License
