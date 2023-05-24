@@ -34,8 +34,6 @@ The Note Taker App is a web application built using Express, a popular web frame
 
 ### Live Deploy
 https://twp-express-js-note-taker.herokuapp.com/
-
-### Video Walkthrough 
     
 ## License
 Permission to use this application is granted under the MIT license.
